@@ -1,0 +1,1543 @@
+[
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "623651",
+    "name": "Dr Bubbles",
+    "uuid": "c388834e-b4c1-4d6d-8703-1d564669ba25",
+    "city": "78",
+    "area": "Lalbagh",
+    "totalRatingsString": "50+ ratings",
+    "cloudinaryImageId": "otpib24gqtznwigavwxd",
+    "cuisines": [
+    "Cafe",
+    "Desserts",
+    "Italian"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 29,
+    "minDeliveryTime": 29,
+    "maxDeliveryTime": 29,
+    "slaString": "29 MINS",
+    "lastMileTravel": 2.299999952316284,
+    "slugs": {
+    "restaurant": "dr-bubbles-lalbagh-lalbagh",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "V6-2-120/8,Derebail,Bijai-Kavooru Road, Shop No. 6A, Basement Floor, Essel Heights, Derebail ,,Mangalore Mahanagara Palike Area ,Dakshina Kannada,Karnataka-",
+    "locality": "Kavooru Road",
+    "parentId": 74568,
+    "unserviceable": false,
+    "veg": true,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "aggregatedDiscountInfo": {
+    "header": "10% off",
+    "shortDescriptionList": [
+    {
+    "meta": "10% off | Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "10% off up to ₹40 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "aggregatedDiscountInfoV2": {
+    "header": "10% OFF",
+    "shortDescriptionList": [
+    {
+    "meta": "Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "10% off up to ₹40 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "ribbon": [
+    {
+    "type": "PROMOTED"
+    }
+    ],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 1900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 1900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "1900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "cid=6488579~p=1~eid=00000187-c23c-10aa-0839-8d0600900128",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "2.2 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "623651",
+    "deliveryTime": 29,
+    "minDeliveryTime": 29,
+    "maxDeliveryTime": 29,
+    "lastMileTravel": 2.299999952316284,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": true,
+    "avgRating": "3.6",
+    "totalRatings": 50,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "232995",
+    "name": "Laziz Pizza",
+    "uuid": "8cd99632-580c-4736-a48b-e486194808c7",
+    "city": "78",
+    "area": "Kottara",
+    "totalRatingsString": "5000+ ratings",
+    "cloudinaryImageId": "vou45da1adrrr64nykbg",
+    "cuisines": [
+    "Chinese",
+    "North Indian",
+    "Burgers",
+    "Pizzas"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 28,
+    "minDeliveryTime": 28,
+    "maxDeliveryTime": 28,
+    "slaString": "28 MINS",
+    "lastMileTravel": 2.0999999046325684,
+    "slugs": {
+    "restaurant": "laziz-pizza-lalbagh-lalbagh",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "2-120/13/2 ground floor essel heights, opposite derebail church, mangalore, 575006",
+    "locality": "Essel Heights",
+    "parentId": 2299,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "aggregatedDiscountInfo": {
+    "header": "40% off",
+    "shortDescriptionList": [
+    {
+    "meta": "40% off | Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "40% off up to ₹80 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "aggregatedDiscountInfoV2": {
+    "header": "40% OFF",
+    "shortDescriptionList": [
+    {
+    "meta": "Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "40% off up to ₹80 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 1900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 1900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "1900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "2 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "232995",
+    "deliveryTime": 28,
+    "minDeliveryTime": 28,
+    "maxDeliveryTime": 28,
+    "lastMileTravel": 2.0999999046325684,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.3",
+    "totalRatings": 5000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "504645",
+    "name": "Sachitha'S Family Restaurant",
+    "uuid": "6d35519c-062e-4ad7-bffd-2dfc2fc92c8c",
+    "city": "78",
+    "area": "Lalbagh",
+    "totalRatingsString": "100+ ratings",
+    "cloudinaryImageId": "nideze1d79w97xjnypt1",
+    "cuisines": [
+    "Chinese",
+    "North Indian",
+    "South Indian",
+    "Biryani"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 27,
+    "minDeliveryTime": 27,
+    "maxDeliveryTime": 27,
+    "slaString": "27 MINS",
+    "lastMileTravel": 1.600000023841858,
+    "slugs": {
+    "restaurant": "sachitha’s-family-restaurant-lalbagh-lalbagh",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "AMIN COMPLEX, KAVOOR JUNCTION MANGALURU - 575015",
+    "locality": "Amin Complex Road",
+    "parentId": 302218,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "aggregatedDiscountInfo": {
+    "header": "20% off",
+    "shortDescriptionList": [
+    {
+    "meta": "20% off | Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "20% off up to ₹50 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "aggregatedDiscountInfoV2": {
+    "header": "20% OFF",
+    "shortDescriptionList": [
+    {
+    "meta": "Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "20% off up to ₹50 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 1900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 1900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "1900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "1.6 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "504645",
+    "deliveryTime": 27,
+    "minDeliveryTime": 27,
+    "maxDeliveryTime": 27,
+    "lastMileTravel": 1.600000023841858,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.1",
+    "totalRatings": 100,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "114367",
+    "name": "Food factory",
+    "uuid": "015809cf-6298-472e-9fa3-37aeba6fbf66",
+    "city": "78",
+    "area": "Kavoor",
+    "totalRatingsString": "5000+ ratings",
+    "cloudinaryImageId": "vjikfr5adwosbu8yobij",
+    "cuisines": [
+    "Desserts",
+    "Chinese",
+    "North Indian",
+    "South Indian",
+    "Biryani"
+    ],
+    "tags": [],
+    "costForTwo": 10000,
+    "costForTwoString": "₹100 FOR TWO",
+    "deliveryTime": 26,
+    "minDeliveryTime": 26,
+    "maxDeliveryTime": 26,
+    "slaString": "26 MINS",
+    "lastMileTravel": 2.299999952316284,
+    "slugs": {
+    "restaurant": "food-factory-maryhill-lalbagh",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "cross, Mary Hill, Konchady, Mangaluru, Karnataka 575008",
+    "locality": "Marryhill junction",
+    "parentId": 3699,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "aggregatedDiscountInfo": {
+    "header": "50% off",
+    "shortDescriptionList": [
+    {
+    "meta": "50% off | Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "50% off up to ₹100 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "aggregatedDiscountInfoV2": {
+    "header": "50% OFF",
+    "shortDescriptionList": [
+    {
+    "meta": "Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "50% off up to ₹100 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "ribbon": [
+    {
+    "type": "PROMOTED"
+    }
+    ],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 1900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 1900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "1900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "cid=6541610~p=4~eid=00000187-c23c-10aa-0839-8d0700900432",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "2.2 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "114367",
+    "deliveryTime": 26,
+    "minDeliveryTime": 26,
+    "maxDeliveryTime": 26,
+    "lastMileTravel": 2.299999952316284,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": true,
+    "avgRating": "4.0",
+    "totalRatings": 5000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "339252",
+    "name": "Punjabi Dhaba",
+    "uuid": "fea15d37-22f4-4810-b753-ca8325d9373b",
+    "city": "78",
+    "area": "Kavoor",
+    "totalRatingsString": "100+ ratings",
+    "cloudinaryImageId": "wehb24eva1tskhlvzmhn",
+    "cuisines": [
+    "Chinese",
+    "North Indian",
+    "Ice Cream",
+    "Biryani"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 33,
+    "minDeliveryTime": 33,
+    "maxDeliveryTime": 33,
+    "slaString": "33 MINS",
+    "lastMileTravel": 1.2999999523162842,
+    "slugs": {
+    "restaurant": "chintu-da-dhaba-hampankatta-hampankatta",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "market complex, opp. kavoor, katte, Kavoor, Mangalore, Karnataka 575015",
+    "locality": "Bajpe Main Road",
+    "parentId": 1476,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 1900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 1900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "1900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "1.2 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "339252",
+    "deliveryTime": 33,
+    "minDeliveryTime": 33,
+    "maxDeliveryTime": 33,
+    "lastMileTravel": 1.2999999523162842,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "3.9",
+    "totalRatings": 100,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "355902",
+    "name": "Tandoori Kitchen",
+    "uuid": "67e0a803-ff2a-4073-a687-0e9f8eccbe5d",
+    "city": "78",
+    "area": "Kavoor",
+    "totalRatingsString": "100+ ratings",
+    "cloudinaryImageId": "yyecfwhuwtl51r65zbdz",
+    "cuisines": [
+    "Chinese",
+    "North Indian",
+    "South Indian",
+    "Ice Cream",
+    "Biryani"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 25,
+    "minDeliveryTime": 25,
+    "maxDeliveryTime": 25,
+    "slaString": "25 MINS",
+    "lastMileTravel": 1.2999999523162842,
+    "slugs": {
+    "restaurant": "tandoor-kitchen-hampankatta-hampankatta",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "market complex, opp. kavoor, katte, Kavoor, Mangalore, Karnataka 575015",
+    "locality": "Bajpe Main Road",
+    "parentId": 5350,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 1900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 1900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "1900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "1.2 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "355902",
+    "deliveryTime": 25,
+    "minDeliveryTime": 25,
+    "maxDeliveryTime": 25,
+    "lastMileTravel": 1.2999999523162842,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "3.8",
+    "totalRatings": 100,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "364815",
+    "name": "Momo Chao",
+    "uuid": "b3f53fc8-1b3f-40c4-9419-fa27397cb692",
+    "city": "78",
+    "area": "Lalbagh",
+    "totalRatingsString": "1000+ ratings",
+    "cloudinaryImageId": "mpw7gqnpw8waevqcdssf",
+    "cuisines": [
+    "Desserts",
+    "Chinese",
+    "North Indian",
+    "Ice Cream"
+    ],
+    "tags": [],
+    "costForTwo": 20000,
+    "costForTwoString": "₹200 FOR TWO",
+    "deliveryTime": 33,
+    "minDeliveryTime": 33,
+    "maxDeliveryTime": 33,
+    "slaString": "33 MINS",
+    "lastMileTravel": 4.900000095367432,
+    "slugs": {
+    "restaurant": "momo-chao-lalbagh-lalbagh",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "Kodailbail west, Behind Empire Mall, MG Rd, Mangalore, Karnataka 575003",
+    "locality": "Mg Road",
+    "parentId": 138132,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "aggregatedDiscountInfo": {
+    "header": "20% off",
+    "shortDescriptionList": [
+    {
+    "meta": "20% off | Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "20% off up to ₹50 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "aggregatedDiscountInfoV2": {
+    "header": "20% OFF",
+    "shortDescriptionList": [
+    {
+    "meta": "Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "20% off up to ₹50 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "ribbon": [
+    {
+    "type": "PROMOTED"
+    }
+    ],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 2900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 2900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "2900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": "Closes soon"
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "cid=6541654~p=7~eid=00000187-c23c-10aa-0839-8d080090076c",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "4.9 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "364815",
+    "deliveryTime": 33,
+    "minDeliveryTime": 33,
+    "maxDeliveryTime": 33,
+    "lastMileTravel": 4.900000095367432,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": true,
+    "avgRating": "4.2",
+    "totalRatings": 1000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "98668",
+    "name": "The Leela's kitchen",
+    "uuid": "118c923e-c449-4fb7-8088-dd7c84225d62",
+    "city": "78",
+    "area": "Kottara",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "p7crtx9ydfwkwqrbkbj8",
+    "cuisines": [
+    "Chinese",
+    "North Indian",
+    "South Indian",
+    "Ice Cream",
+    "Biryani"
+    ],
+    "tags": [],
+    "costForTwo": 25000,
+    "costForTwoString": "₹250 FOR TWO",
+    "deliveryTime": 28,
+    "minDeliveryTime": 28,
+    "maxDeliveryTime": 28,
+    "slaString": "28 MINS",
+    "lastMileTravel": 2.0999999046325684,
+    "slugs": {
+    "restaurant": "the-leelas-kitchen-kottara-lalbagh",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "Derebail Road, Konchady, Mangalore, Dakshina Kannada (Karnataka), - 575008",
+    "locality": "Derebail",
+    "parentId": 15779,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "aggregatedDiscountInfo": {
+    "header": "50% off",
+    "shortDescriptionList": [
+    {
+    "meta": "50% off | Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "50% off up to ₹100 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "aggregatedDiscountInfoV2": {
+    "header": "50% OFF",
+    "shortDescriptionList": [
+    {
+    "meta": "Use TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "50% off up to ₹100 | Use code TRYNEW",
+    "discountType": "Percentage",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 1900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 1900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "1900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "2 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "98668",
+    "deliveryTime": 28,
+    "minDeliveryTime": 28,
+    "maxDeliveryTime": 28,
+    "lastMileTravel": 2.0999999046325684,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.0",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "96548",
+    "name": "Sai Samriddhi Family Restaurant",
+    "uuid": "07135157-0303-4a20-89bd-3d4c2f718763",
+    "city": "78",
+    "area": "Kavoor",
+    "totalRatingsString": "1000+ ratings",
+    "cloudinaryImageId": "o8krhta9afstclipzfsv",
+    "cuisines": [
+    "Chinese",
+    "North Indian",
+    "South Indian",
+    "Ice Cream",
+    "Biryani"
+    ],
+    "tags": [],
+    "costForTwo": 30000,
+    "costForTwoString": "₹300 FOR TWO",
+    "deliveryTime": 26,
+    "minDeliveryTime": 26,
+    "maxDeliveryTime": 26,
+    "slaString": "26 MINS",
+    "lastMileTravel": 1.2999999523162842,
+    "slugs": {
+    "restaurant": "sai-samrudhi-kulai-surathkal",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "market complex, opp. kavoor, katte, Kavoor, Mangalore, Karnataka 575015",
+    "locality": "Bajpe Main Road",
+    "parentId": 12825,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 1900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 1900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "1900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": ""
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "1.2 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "96548",
+    "deliveryTime": 26,
+    "minDeliveryTime": 26,
+    "maxDeliveryTime": 26,
+    "lastMileTravel": 1.2999999523162842,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": false,
+    "avgRating": "4.0",
+    "totalRatings": 1000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+    "type": "restaurant",
+    "data": {
+    "type": "F",
+    "id": "89277",
+    "name": "Andhra House",
+    "uuid": "6583d263-91d5-4a67-afa8-34926439088f",
+    "city": "78",
+    "area": "Lalbagh",
+    "totalRatingsString": "10000+ ratings",
+    "cloudinaryImageId": "f2or8q4ckk7ldv6i8zv2",
+    "cuisines": [
+    "Chinese",
+    "North Indian",
+    "South Indian",
+    "Biryani"
+    ],
+    "tags": [],
+    "costForTwo": 35000,
+    "costForTwoString": "₹350 FOR TWO",
+    "deliveryTime": 27,
+    "minDeliveryTime": 27,
+    "maxDeliveryTime": 27,
+    "slaString": "27 MINS",
+    "lastMileTravel": 4.400000095367432,
+    "slugs": {
+    "restaurant": "andhra-house-bejai-hampankatta",
+    "city": "mangaluru"
+    },
+    "cityState": "78",
+    "address": "Bhavani Ganesh complex, beside TATA showroom, Bejai road, Mangalore 575004",
+    "locality": "Bejai road",
+    "parentId": 15783,
+    "unserviceable": false,
+    "veg": false,
+    "select": false,
+    "favorite": false,
+    "tradeCampaignHeaders": [],
+    "aggregatedDiscountInfo": {
+    "header": "Free Delight",
+    "shortDescriptionList": [
+    {
+    "meta": "Free Delight on orders above ₹499",
+    "discountType": "Freebie",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "Free Delight on orders above ₹499",
+    "discountType": "Freebie",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "aggregatedDiscountInfoV2": {
+    "header": "",
+    "shortDescriptionList": [
+    {
+    "meta": "Free Delight",
+    "discountType": "Freebie",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "descriptionList": [
+    {
+    "meta": "Free Delight on orders above ₹499",
+    "discountType": "Freebie",
+    "operationType": "RESTAURANT"
+    }
+    ],
+    "subHeader": "",
+    "headerType": 0,
+    "superFreedel": ""
+    },
+    "ribbon": [
+    {
+    "type": "PROMOTED"
+    }
+    ],
+    "chain": [],
+    "feeDetails": {
+    "fees": [
+    {
+    "name": "distance",
+    "fee": 2900,
+    "message": ""
+    },
+    {
+    "name": "time",
+    "fee": 0,
+    "message": ""
+    },
+    {
+    "name": "special",
+    "fee": 0,
+    "message": ""
+    }
+    ],
+    "totalFees": 2900,
+    "message": "",
+    "title": "Delivery Charge",
+    "amount": "2900",
+    "icon": ""
+    },
+    "availability": {
+    "opened": true,
+    "nextOpenMessage": "",
+    "nextCloseMessage": "Closes soon"
+    },
+    "longDistanceEnabled": 0,
+    "rainMode": "NONE",
+    "thirdPartyAddress": false,
+    "thirdPartyVendor": "",
+    "adTrackingID": "cid=6541611~p=10~eid=00000187-c23c-10aa-0839-8d0900900a61",
+    "badges": {
+    "imageBased": [],
+    "textBased": [],
+    "textExtendedBadges": []
+    },
+    "lastMileTravelString": "4.4 kms",
+    "hasSurge": false,
+    "sla": {
+    "restaurantId": "89277",
+    "deliveryTime": 27,
+    "minDeliveryTime": 27,
+    "maxDeliveryTime": 27,
+    "lastMileTravel": 4.400000095367432,
+    "lastMileDistance": 0,
+    "serviceability": "SERVICEABLE",
+    "rainMode": "NONE",
+    "longDistance": "NOT_LONG_DISTANCE",
+    "preferentialService": false,
+    "iconType": "EMPTY"
+    },
+    "promoted": true,
+    "avgRating": "4.2",
+    "totalRatings": 10000,
+    "new": false
+    },
+    "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+        "type": "F",
+        "id": "355806",
+        "name": "Baba Falooda (Kurla)",
+        "uuid": "384970ad-6ed8-455a-acf6-5493551f5893",
+        "city": "5",
+        "area": "Kurla",
+        "totalRatingsString": "5000+ ratings",
+        "cloudinaryImageId": "ys88tnnklqgfhzsftmqq",
+        "cuisines": [
+        "Ice Cream",
+        "Beverages",
+        "Desserts"
+        ],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "slaString": "27 MINS",
+        "lastMileTravel": 1,
+        "slugs": {
+        "restaurant": "baba-falooda-by-hotel-sky-way-powai-powai",
+        "city": "mumbai"
+        },
+        "cityState": "5",
+        "address": "TAYYAB MANZIL  shop no 1,2,3 L.B.S Marg KURLA WEST MUMBAI 400070",
+        "locality": "Powai",
+        "parentId": 38827,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3600,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3600,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3600",
+        "icon": ""
+        },
+        "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+        },
+        "lastMileTravelString": "1 kms",
+        "hasSurge": false,
+        "sla": {
+        "restaurantId": "355806",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "lastMileTravel": 1,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.4",
+        "totalRatings": 5000,
+        "new": false
+        },
+        "subtype": "basic"
+        },
+        {
+        "type": "restaurant",
+        "data": {
+        "type": "F",
+        "id": "78036",
+        "name": "Burger King",
+        "uuid": "c04163ad-ab93-4fce-81da-e87d4f2687b0",
+        "city": "5",
+        "area": "Santacruz East",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "28fb13049b4e55297bb3f703cde63c35",
+        "cuisines": [
+        "Burgers",
+        "American"
+        ],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 32,
+        "minDeliveryTime": 32,
+        "maxDeliveryTime": 32,
+        "slaString": "32 MINS",
+        "lastMileTravel": 1.5,
+        "slugs": {
+        "restaurant": "burger-king-cst-road-scruz-bandra-east",
+        "city": "mumbai"
+        },
+        "cityState": "5",
+        "address": "unit no G2, Ground floor , Central Plaza , 166,CST Road, Kalina, Mumbai 400098",
+        "locality": "Central Plaza, Kalina",
+        "parentId": 166,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "aggregatedDiscountInfo": {
+        "header": "60% off",
+        "shortDescriptionList": [
+        {
+        "meta": "60% off | Use STEALDEAL",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "60% off up to ₹120 | Use code STEALDEAL",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+        },
+        "aggregatedDiscountInfoV2": {
+        "header": "60% OFF",
+        "shortDescriptionList": [
+        {
+        "meta": "Use STEALDEAL",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "descriptionList": [
+        {
+        "meta": "60% off up to ₹120 | Use code STEALDEAL",
+        "discountType": "Percentage",
+        "operationType": "RESTAURANT"
+        }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+        },
+        "chain": [],
+        "feeDetails": {
+        "fees": [
+        {
+        "name": "distance",
+        "fee": 3600,
+        "message": ""
+        },
+        {
+        "name": "time",
+        "fee": 0,
+        "message": ""
+        },
+        {
+        "name": "special",
+        "fee": 0,
+        "message": ""
+        }
+        ],
+        "totalFees": 3600,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "3600",
+        "icon": ""
+        },
+        "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+        "imageBased": [],
+        "textBased": [],
+        "textExtendedBadges": []
+        },
+        "lastMileTravelString": "1.5 kms",
+        "hasSurge": false,
+        "sla": {
+        "restaurantId": "78036",
+        "deliveryTime": 32,
+        "minDeliveryTime": 32,
+        "maxDeliveryTime": 32,
+        "lastMileTravel": 1.5,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.2",
+        "totalRatings": 10000,
+        "new": false
+        },
+        "subtype": "basic"
+        }]
+
+    

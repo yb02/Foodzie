@@ -1,0 +1,10 @@
+--Header
+    *Logo
+    *Nav-items(home,about us)
+--Body
+    *Search
+    *Cards
+        -img
+        -name, cuisine type, rating
+--Footer
+    *details 
